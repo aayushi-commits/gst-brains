@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+anthropic
+qdrant-client
+llama-index
+llama-index-core
+sentence-transformers
+pymupdf
+httpx
+requests
+python-dotenv
